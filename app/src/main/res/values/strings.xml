@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StackOverflow Kotlin</string>
+    <string name="gold">Gold:</string>
+    <string name="silver">Silver:</string>
+    <string name="badges">Badges:</string>
+    <string name="website">Website:</string>
+    <string name="location">Location:</string>
+    <string name="name">Name:</string>
+    <string name="website_string">"website: "</string>
+</resources>
